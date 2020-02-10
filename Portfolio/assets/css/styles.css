@@ -1,7 +1,15 @@
 .nav {
-    background-color: #08caec;
+    background-color: #04a8c5;
 }
 
-#background-color {
-    background-color: #2a2a2a;
+.container-fluid {
+    float: right;
+}
+
+.jumbotron {
+    position: relative;
+}
+
+.nav-link {
+    color: black;
 }
