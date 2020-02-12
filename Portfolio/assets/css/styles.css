@@ -33,3 +33,7 @@
     background-image: linear-gradient(black, gray); 
     background-repeat: repeat;
   }
+
+  .card-img-top {
+      margin-top: 20px;
+  }
