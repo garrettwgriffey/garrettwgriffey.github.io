@@ -58,3 +58,11 @@
 .mb-4 {
     color: #04a8c5
 }
+
+#codeimage{
+    width: flex;
+}
+
+.textFont {
+    font-family: 'Dosis', sans-serif;
+}
