@@ -32,13 +32,22 @@
     background-color: black; 
     background-image: linear-gradient(black, gray); 
     background-repeat: repeat;
-  }
+}
 
-  .card-img-top {
+.card-img-top {
       margin-top: 20px;
-  }
+}
 
-  .media {
+.media {
       color: #04a8c5;
       margin: 10px;
-  }
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card {
+    alignment: center;
+
+}
