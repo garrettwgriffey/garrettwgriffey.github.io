@@ -2,7 +2,7 @@
     background-color: #04a8c5;
 }
 
-
+.card-text,
 .nav-link {
     color: black;
 }
@@ -24,7 +24,7 @@
 }
 
 #grad1 {
-    height: 700px;
+    height: 1000px;
     background-color: black; 
     background-image: linear-gradient(black, gray); 
     background-repeat: repeat;
@@ -55,6 +55,8 @@
     padding-bottom: 10px;
 }
 
+.input,
+.text-center,
 .mb-4 {
     color: #04a8c5;
 }
@@ -71,3 +73,8 @@
     margin: 30px;
     float: center;
 }
+.text-md-left{
+    color: white;
+}
+
+
